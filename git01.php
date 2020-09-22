@@ -1,7 +1,7 @@
 <?php
 $result = null;
 if (!empty($_POST['start'])) {
-	$result = 'git chance 1';
+	$result = 'git test';
 }
 ?>
 
