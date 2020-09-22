@@ -1,7 +1,7 @@
 <?php
 $result = null;
 if (!empty($_POST['start'])) {
-	$result = 'git practice';
+	$result = 'git practice chage01';
 }
 ?>
 

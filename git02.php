@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<title>git practice</title>
+<title>git practice chage</title>
 </head>
 <body>
 <form action="git03.php" method="post">
